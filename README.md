@@ -1,6 +1,5 @@
 # -Digital-Safe-Locker-PIC18-
 A password-protected electronic locker with LCD display, wrong-attempt buzzer, auto-lock, and password change functionality.
-Author Name- Arif Shaikh
 This project is a Digital-Safe-Lockerbuilt using the PIC18F4520 microcontroller. It uses a 4×4 keypad for password entry, a 16×2 LCD to display system messages, an EEPROM to securely store the password, a relay to control the lock mechanism, and a buzzer for user feedback and security alerts.
 
 The system is designed to simulate a simple electronic safe where only users with the correct PIN can unlock the safe. It also allows the password to be changed without reprogramming the microcontroller.
